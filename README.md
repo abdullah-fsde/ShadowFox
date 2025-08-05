@@ -24,6 +24,25 @@ Jupyter Notebook EDA & Visualization
 
 Basic NLP / Language Model Exploration
 
+# ShadowFox – Python Development Internship
+
+## 🟢 Beginner Level Tasks (Completed ✅)
+This folder contains all beginner-level Python tasks, covering 5 out of 9 programs required:  
+
+*Topics Covered:*  
+- Variables (Simple Interest calculation, reserved keyword check)  
+- Numbers (Formatted output, Area & Volume calculations, Speed calculation)  
+- Lists (Justice League operations: add, move, replace, sort)  
+- If Conditions (BMI calculator, city-country detection, country comparison)  
+- For Loops (Dice roll simulation & Interactive workout challenge)  
+
+*Total Programs:* 12  
+Each program focuses on building strong Python fundamentals and applying them in practical tasks.  
+
+---
+
+Next phase: Intermediate and Advanced Python tasks 🚀
+
 
 
 🛠 Skills Demonstrated:
