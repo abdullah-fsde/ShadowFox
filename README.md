@@ -42,6 +42,18 @@ Each program focuses on building strong Python fundamentals and applying them in
 ---
 
 Next phase: Intermediate and Advanced Python tasks 🚀
+⚡ Intermediate Level
+
+✅ Completed Tasks:
+
+Web Scraper:
+Extracted structured data from a webpage using BeautifulSoup. Demonstrated DOM parsing, tag extraction, and data organization.
+
+Hangman Game:
+Created a fully playable terminal-based Hangman game with user progress, hint mechanics, and input handling. Emphasis on loops, string methods, and conditionals.
+
+
+🎯 Focus: Applying Python for real-world utilities and games.
 
 
 
